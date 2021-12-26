@@ -10,7 +10,7 @@ Para este tutorial, utilizaremos apenas Python e SQL. O link dos arquivos CSV se
 
 Para cada tópico, serão realizados exemplos utilizando dataframes com SQL e Pyspark respectivamente, sendo eles:
 
-* Carregamento de dados CSV (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2800799850847534/1133708590976233/6855983524799754/latest.html)
+* Carregamento de dados CSV(https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2800799850847534/1133708590976233/6855983524799754/latest.html)
 
 * Lendo dados CSV [https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2800799850847534/1133708590976237/6855983524799754/latest.html]
 
