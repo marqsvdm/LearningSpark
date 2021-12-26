@@ -4,7 +4,7 @@
 
 ## Linguagens Utilizadas
 
-Para este tutorial, utilizaremos apenas Python e SQL. [O link dos arquivos CSV se encontra aqui].
+Para este tutorial, utilizaremos apenas Python e SQL. [O link dos arquivos CSV se encontra aqui.](https://github.com/marqsvdm/LearningSpark)
 
 # Assuntos
 
