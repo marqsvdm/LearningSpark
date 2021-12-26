@@ -41,6 +41,6 @@ Para cada tópico, serão realizados exemplos utilizando dataframes com SQL e Py
 * [Row Number](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2800799850847534/1133708590976342/6855983524799754/latest.html)
 
 
-### Além disso, todos os códigos possuem comentários que ajudam a delimitar cada parte dos códigos, além de separarem cada exemplo feito em SQL e Pyspark.
+#### Além disso, todos os códigos possuem comentários que ajudam a delimitar cada parte dos códigos, além de separarem cada exemplo feito em SQL e Pyspark.
 
 #### Até mais!
